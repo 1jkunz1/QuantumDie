@@ -32,3 +32,6 @@ while i < n:
 
 
 print(throws)
+
+for i in throw:
+    print i
